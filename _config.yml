@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "bio-photo.jpn"
+  avatar           : "profile_pic_01.jpg"
   name             : "Lê Tuân"
   pronouns         : # example: "she/her"  
   bio              : "Computer Vision & Anomaly Detection"
