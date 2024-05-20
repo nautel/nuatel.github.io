@@ -3,10 +3,10 @@ main:
   - title: "CV"
     url: /files/resume.pdf
 
-#  - title: "Portfolio"
-#    url: /portfolio/
+  - title: "Research"
+    url: https://scholar.google.fr/citations?hl=vi&user=py3sPfwAAAAJ
 
-#  - title: "Publications"
+#  - title: "Blog"
 #    url: /publications/
 
 #  - title: "Talks"
