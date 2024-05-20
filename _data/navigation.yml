@@ -1,5 +1,8 @@
 # main links links
 main:
+  - title: "News"
+    url: /news/
+
   - title: "CV"
     url: /files/resume.pdf
 
@@ -9,8 +12,7 @@ main:
   - title: "Blog"
     url: /year-archive/
 
-#  - title: "Blog"
-#    url: /publications/
+
 
 #  - title: "Talks"
 #    url: /talks/    
